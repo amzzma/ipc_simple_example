@@ -10,7 +10,6 @@
 #define MSG_TYPE_H
 
 #define KEY 8888
-#define MAX_MSGS 10
 
 struct msg
 {
